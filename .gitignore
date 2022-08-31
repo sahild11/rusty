@@ -1,0 +1,7 @@
+*.lock
+*.so
+*.bin
+*.o
+*/target/
+# Added by cargo
+/target
